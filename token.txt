@@ -1,0 +1,36 @@
+Tokens= 48
+[2179, 2633, 5329, 1480, 451, 120187, 67624, 532, 1687, 18851, 334, 355, 57577, 4379, 73051]
+
+1. ração
+“o gato come ração”
+É o alimento mais comum associado a gatos domésticos
+Em textos do dia a dia, “gato + come” quase sempre se refere à alimentação normal
+Alta frequência em dados (frases comuns)
+
+3. peixe
+Existe uma associação cultural forte entre gatos e peixe
+Muito usado em histórias, desenhos e exemplos simples
+Mesmo não sendo o alimento principal na vida real, aparece bastante na linguagem
+
+5. rato
+Representa o comportamento natural do gato (caçador)
+Muito comum em frases educativas ou exemplos básicos
+Forte relação lógica: gato → caça → rato
+
+Lógica:
+ração → mais comum no cotidiano (gatos domésticos)
+peixe → associação cultural frequente
+rato → comportamento natural (caça)
+
+Criativa:
+“o gato come estrelas esquecidas no céu” 
+“o gato come o silêncio da madrugada” 
+“o gato come segredos que ninguém contou”
+
+Frase:
+"o rato roeu a roupa do rei de roma"
+Agora pegamos a 5ª palavra (roupa) e vemos a 3ª letra:
+r (1) o (2) u (3)
+✅ Resposta:u 
+
+A divisão em tokens influencia diretamente a resposta da IA porque o modelo não processa palavras completas, mas sim pequenas unidades de texto. Isso afeta a forma como o significado é interpretado, como os padrões são aprendidos e como a resposta é gerada. Além disso, a quantidade de tokens impacta o limite de contexto, podendo reduzir a qualidade da resposta. Portanto, mudanças na forma como o texto é dividido podem alterar tanto a compreensão quanto o resultado final produzido pela IA.

@@ -1,0 +1,11 @@
+def verificar_temperatura(temp):
+
+    if temp > 30:
+        print("ALERTA: Superaquecimento! Temperatura:", temp, "°C")
+    else:
+        print("Temperatura normal:", temp, "°C")
+
+temperatura = float(input("Digite a temperatura: "))
+
+verificar_temperatura(temperatura)
+     

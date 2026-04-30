@@ -1,0 +1,44 @@
+Notificação 
+
+import time
+import random
+
+CRITICAL_THRESHOLD = 90
+CHECK_INTERVAL_SECONDS = 5
+SIMULATED_EMAIL_RECIPIENT = "admin@exemplo.com"
+
+def _build_alert_message(value):
+    return f"ALERTA CRÍTICO: O valor monitorado ({value}) excedeu o limite de {CRITICAL_THRESHOLD}!"
+
+def check_critical_condition():
+    current_value = random.randint(0, 100)
+    print(f"[{time.strftime('%H:%M:%S')}] Valor atual monitorado: {current_value}")
+    return current_value > CRITICAL_THRESHOLD, current_value
+
+def send_console_alert(value):
+    alert_message = _build_alert_message(value)
+    print(f"\n{'#'*30}\n{alert_message}\n{'#'*30}\n")
+
+def send_simulated_email_alert(value):
+    alert_message = _build_alert_message(value)
+    print(f"\n{'*'*30}\nSIMULAÇÃO DE E-MAIL DE ALERTA para: {SIMULATED_EMAIL_RECIPIENT}\nAssunto: ALERTA CRÍTICO - Limite Excedido!\nCorpo: {alert_message}\n{'*'*30}\n")
+
+def run_monitor():
+    print(f"Iniciando monitoramento... (Verificando a cada {CHECK_INTERVAL_SECONDS} segundos)")
+    print(f"Limite crítico: {CRITICAL_THRESHOLD}")
+
+    try:
+        while True:
+            is_critical, detected_value = check_critical_condition()
+            if is_critical:
+                print("Condição crítica detectada! Disparando alerta...")
+                send_console_alert(detected_value)
+                send_simulated_email_alert(detected_value)
+            time.sleep(CHECK_INTERVAL_SECONDS)
+    except KeyboardInterrupt:
+        print("\nMonitoramento interrompido pelo usuário.")
+    except Exception as e:
+        print(f"Ocorreu um erro inesperado: {e}")
+
+if __name__ == '__main__':
+    run_monitor()

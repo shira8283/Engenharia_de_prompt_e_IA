@@ -1,0 +1,27 @@
+Jogo da forma
+
+import random
+
+formas = {
+    "Triângulo": "3 lados",
+    "Quadrado": "4 lados iguais",
+    "Retângulo": "4 lados (pares iguais)",
+    "Círculo": "sem lados"
+}
+
+pontuacao = 0
+
+for rodada in range(5):
+    forma, dica = random.choice(list(formas.items()))
+    
+    print("\nDica:", dica)
+    
+    resposta = input("Qual é a forma? ").strip().capitalize()
+    
+    if resposta == forma:
+        print("✅ Acertou!")
+        pontuacao += 1
+    else:
+        print(f"❌ Errou! Era {forma}")
+
+print("\nPontuação final:", pontuacao)

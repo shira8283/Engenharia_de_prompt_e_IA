@@ -1,0 +1,15 @@
+Oi, pessoal! Como embaixador da UDF Centro Universitário, passo pra lembrar: já está disponível o calendário acadêmico com as datas de provas. Fiquem atentos aos prazos e se organizem com antecedência. Qualquer dúvida, estamos aqui!
+
+Análise filme her
+Perguntas:
+1-quando ele pede ajuda para fazer a carta para a Samantha
+2-ela vai se adaptando a pessoa e aprendendo sobre ele, ela tira conclusões de acordo com o seu tom de voz e também ela usa o contexto do historico de conversas e comportamento dele
+3-esperamos que as Ias entendam os sentimentos seme explicação completa, que vá além de uma ferramenta e se torne uma quase pessoa que tira decisões proprias
+
+PROMPT ORIGINAL - "me ajude a escrever esa carta"
+PROMPT ESTRUTURADO - "você é um assistente de escrita. A carta será enviada de um marido para sua esposa em comemoração de aniversário de casamento."
+Instrução - escreva uma carta emocional expressando amor, gratidão e memórias compartilhadas.
+Formato: 3 parágrafos, linguagem simples íntima, máximo 200 palavras.
+Limites: Não usar linguagem formal excessiva, não incluir sarcasmo, não fugir do tema romântico.
+
+Essa estrutura evita os problemas vistos no filme porque elimina ambiguidade. Ao definir contexto, instrução, formato e limites, a IA não precisa adivinhar a intenção do usuário. Como no filme onde acontece muitas brigas e conflitos pela falta de clareza nas expectativas e comunicação. Um prompt bom e bem estruturado controla a precisão da reposta e mantem controle sobre a resposta.

@@ -1,0 +1,16 @@
+A experiência de desenvolver códigos com o apoio da Inteligência Artificial foi muito interessante e surpreendente. Durante as atividades, ficou claro como a IA pode ajudar a transformar ideias em algo mais concreto, facilitando bastante o processo de criação. Em vários momentos, deu a sensação de que é possível ir muito além do que conseguiríamos sozinhos, principalmente na fase inicial de desenvolvimento.
+
+Onde a IA foi mais útil?
+A IA foi especialmente útil na identificação e sugestão de correções para erros no código. Ela ajudou a entender melhor o que estava errado e indicou possíveis soluções de forma rápida. Mesmo quando o código não funcionou exatamente como esperado, foi possível perceber que, em muitos casos, o problema estava mais relacionado ao ambiente ou à execução do que às sugestões em si. Ainda assim, a IA serviu como um apoio importante para orientar os ajustes.
+
+Onde exigiu maior intervenção humana?
+A maior participação humana foi necessária na elaboração dos prompts e na interpretação dos erros apresentados durante a execução dos programas. Foi preciso testar diferentes formas de pedir ajuda à IA e analisar com cuidado as respostas, adaptando o código quando necessário. Ou seja, não basta apenas copiar o que a IA sugere, é importante entender e revisar.
+
+Como cada nível contribuiu para o desenvolvimento das habilidades?
+Ao longo dos níveis, foi possível perceber uma evolução no uso da IA como ferramenta de apoio. Nos níveis mais básicos, os resultados foram mais diretos e funcionaram melhor na prática, o que ajudou a ganhar confiança. Já nos níveis mais avançados, surgiram desafios maiores, principalmente na execução dos programas. Mesmo sem erros aparentes no código, nem sempre o resultado era o esperado, o que mostrou a importância de testar, revisar e compreender melhor a lógica por trás da solução. Essa progressão ajudou a desenvolver um olhar mais crítico e maior autonomia no uso da programação com IA.
+
+
+
+NO geral no primeiro semestre de Sistemas de Informação, comecei a usar umas IAs e aplicativos tipo Copilot e Replit, e achei bem diferente do que eu imaginava. No começo fiquei meio perdida, mas depois percebi que eles ajudam muito, principalmente quando dá erro no código ou quando eu não sei por onde começar. Essas ferramentas acabam sendo tipo um “apoio” enquanto eu estudo, porque elas sugerem código, explicam algumas coisas e ajudam a organizar melhor as ideias. Na prática, isso facilita bastante na hora de fazer exercícios e testar coisas novas sem ficar travado por muito tempo. Mas também deu pra perceber que não dá pra depender só disso, porque senão a gente não aprende de verdade. O ideal é usar como ajuda mesmo e tentar entender o que tá acontecendo. No geral, tá sendo uma experiência bem boa e tem ajudado bastante nesse começo da faculdade. 
+
+uso chatgpt e gemini para me ajudar.

@@ -1,0 +1,17 @@
+print("organizador de arquivos")
+
+
+arquivos = ["relatorio.pdf", "foto.jpg", "planilha.xlsx", "curriculo.pdf", "imagem.png"]
+
+for arquivo in arquivos:
+    if "." in arquivo:
+        extensao = arquivo.split(".")[-1]
+
+
+        pasta = extensao.upper() + "_arquivos"
+
+        print(f"Criando pasta '{pasta}' e movendo o arquivo '{arquivo}'")
+    else:
+        print(f"Arquivo sem extensão: {arquivo}")
+
+print("todos os arquivos foram organizados")
