@@ -6,7 +6,7 @@ Perguntas:
 2-ela vai se adaptando a pessoa e aprendendo sobre ele, ela tira conclusões de acordo com o seu tom de voz e também ela usa o contexto do historico de conversas e comportamento dele
 3-esperamos que as Ias entendam os sentimentos seme explicação completa, que vá além de uma ferramenta e se torne uma quase pessoa que tira decisões proprias
 
-PROMPT ORIGINAL - "me ajude a escrever esa carta"
+PROMPT ORIGINAL - "me ajude a escrever essa carta"
 PROMPT ESTRUTURADO - "você é um assistente de escrita. A carta será enviada de um marido para sua esposa em comemoração de aniversário de casamento."
 Instrução - escreva uma carta emocional expressando amor, gratidão e memórias compartilhadas.
 Formato: 3 parágrafos, linguagem simples íntima, máximo 200 palavras.
