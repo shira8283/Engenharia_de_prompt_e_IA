@@ -1,0 +1,27 @@
+while True:
+  print("Escolha o operador:")
+  print("+ para Soma")
+  print("- para Subtração")
+  print("* para Multiplicação")
+  print("/ para Divisão")
+
+  operacao = (input("digite a forma de operação: "))
+  n1 = int(input("digite o primeiro numero: "))
+  n2 = int(input("digite o segundo numero: "))
+
+  if operacao == "+":
+    resultado = n1 + n2
+    print(f"O resultado de {n1} + {n2} = {resultado}")
+  elif operacao == "-":
+    resultado = n1 - n2
+    print(f"O resultado de {n1} - {n2} = {resultado}")
+  elif operacao == "*":
+    resultado = n1 * n2
+    print(f"O resultado de {n1} * {n2} = {resultado}")
+  elif operacao == "/":
+    resultado = n1 / n2
+    print(f"O resultado de {n1} / {n2} = {resultado}")
+  else:
+    print("voce encerrou o programa")
+    break
+     
