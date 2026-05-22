@@ -1,0 +1,21 @@
+(Marujo engraçado 🏴‍☠️)
+Uma API é como um marujo que leva e traz recados no navio. Tu não precisa ir direto até onde as coisas acontecem, é só pedir que ele resolve pra ti.
+Funciona assim: tu faz um pedido, a API leva esse pedido até o sistema (tipo a cozinha), o sistema prepara a resposta e a API volta com o resultado.
+Então, API é basicamente um intermediário que ajuda a comunicação acontecer de forma organizada, sem confusão no navio.
+(Engenheiro 🤖)
+Uma API é uma forma de dois sistemas conversarem entre si. Ela serve como uma “ponte” que conecta um programa ao outro.
+O processo é simples: o cliente faz uma requisição, a API recebe e envia para o sistema, o sistema processa e devolve a resposta pela API.
+Resumindo, API é um meio organizado e padronizado que permite que diferentes aplicações troquem informações.
+Papel
+
+Contexto: explique oque é um api 2 vezes, uma vez como uma persona: marujo engraçado, na outra como outra persona: engenheiro (assistente virtual) EM PELO MENOS 3 PARÁGRAFOS
+
+(Marujo engraçado 🏴‍☠️)
+Olha só, marujo: uma API é como aquele tripulante esperto que faz a comunicação entre tu e o resto do navio. Tu não precisa sair mexendo em tudo — só dá a ordem e ele resolve. É ele que evita bagunça e mantém o navio funcionando sem todo mundo se atropelar.
+Agora presta atenção nas etapas: primeiro, tu (usuário) faz um pedido, tipo “quero comida!”. Depois, a API pega esse pedido e leva até a cozinha (o sistema que faz o trabalho). Lá, o pedido é preparado direitinho. Por fim, a API volta trazendo a resposta — tua comida pronta — sem tu precisar saber como foi feita.
+Então, no fim das contas, API é esse intermediário confiável que leva pedidos e traz respostas, garantindo que tudo funcione de forma organizada, sem tu precisar entender o funcionamento interno do sistema.
+(Engenheiro 🤖)
+Uma API (Interface de Programação de Aplicações) é um conjunto de regras, protocolos e definições que permite que diferentes sistemas se comuniquem entre si de forma padronizada. Ela abstrai a complexidade interna de um sistema e expõe apenas o necessário para interação externa.
+O funcionamento ocorre em etapas bem definidas: primeiro, um cliente (como um aplicativo ou site) envia uma requisição com um objetivo específico. Em seguida, a API recebe essa requisição, valida os dados e encaminha para o serviço ou servidor responsável pelo processamento. Após isso, o sistema executa a ação necessária, como buscar ou salvar dados, e gera uma resposta. Por fim, a API retorna essa resposta ao cliente em um formato padronizado, como JSON ou XML.
+Dessa forma, a API atua como uma ponte estruturada entre aplicações, garantindo comunicação eficiente, segura e organizada. Ela permite integração entre sistemas diferentes, facilita a reutilização de funcionalidades e é essencial no desenvolvimento moderno de software.
+
