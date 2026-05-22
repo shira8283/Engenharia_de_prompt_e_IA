@@ -1,6 +1,7 @@
 # Engenharia_de_prompt_e_IA
 Matéria Kadidja
-**AULAS E ATIVIDADES**
+
+***AULAS E ATIVIDADES***
 
 Engenharia de Prompt e IA é uma disciplina focada no uso inteligente da Inteligência Artificial para desenvolvimento tecnológico e criação de soluções digitais. Durante a matéria, aprendemos a utilizar diferentes plataformas de IA em nuvem para gerar códigos, desenvolver sites, auxiliar no design de interfaces e otimizar processos criativos.
 
