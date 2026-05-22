@@ -1,9 +1,0 @@
-Refatoração
-
-
-def inverter_string(texto):
-    return texto[::-1]
-
-texto = input("Digite um texto: ")
-resultado = inverter_string(texto)
-print("Texto invertido:", resultado)
