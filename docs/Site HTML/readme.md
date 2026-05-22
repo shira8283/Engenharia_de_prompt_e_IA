@@ -1,8 +1,5 @@
 ### Sistema de Doações e Adoção de Pets
-## MADE BY:
--Miqueias
--Shira
--Paloma
+## MADE BY: Shira, Mikeias e Paloma
 
 Este projeto foi desenvolvido com o objetivo de facilitar a adoção, doação e cuidado de animais, conectando pessoas interessadas em ajudar pets com instituições, lojas e possíveis adotantes.
 
