@@ -1,4 +1,6 @@
-Machine Learning (Aprendizado de Máquina) é uma área da Inteligência Artificial em que computadores aprendem padrões a partir de dados, em vez de serem programados com regras exatas para tudo. 🤖📊
+## Machine Learning (Aprendizado de Máquina)
+
+É uma área da Inteligência Artificial em que computadores aprendem padrões a partir de dados, em vez de serem programados com regras exatas para tudo. 🤖📊
 Ou seja: o sistema analisa muitos dados, encontra padrões e melhora suas respostas automaticamente com o tempo.# engenharia-de-prompt-fundamentos
 
 Machine Learning é como treinar um atleta em um esporte. Imagine alguém aprendendo a jogar futebol ⚽. No começo, o jogador não sabe exatamente como chutar, passar ou se posicionar. Mas conforme ele treina muitas vezes, observa os resultados e recebe correções do treinador, ele começa a perceber padrões: qual força usar no chute, como prever o movimento do adversário e qual posição é melhor no campo. Com o tempo, ele melhora porque aprendeu com a experiência. No Machine Learning acontece algo parecido: o computador analisa muitos exemplos (dados) e aprende padrões para tomar decisões ou fazer previsões.
