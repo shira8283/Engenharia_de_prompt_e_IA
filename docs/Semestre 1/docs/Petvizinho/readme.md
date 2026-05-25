@@ -32,7 +32,7 @@ O grupo desenvolveu o **PetVizinho**, uma plataforma web de adoção responsáve
 
 ### Acesso ao projeto
 
-> O protótipo completo está disponível no arquivo https://github.com/mikeiasribeiro/engenharia-de-prompt-e-aplicacoes-em-IA/blob/main/projeto/petvizinho.html — basta abrir no navegador.
+> O protótipo completo está disponível no arquivo: https://github.com/shy0li/Engenharia_de_prompt_e_IA/blob/main/docs/Semestre%201/docs/Petvizinho/petvizinho.html — basta abrir no navegador.
 
 ### Prints das telas
 
