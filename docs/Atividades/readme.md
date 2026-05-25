@@ -1,7 +1,5 @@
 ### Semestre 1
 
-## Engenharia de Prompt e IA
-
 Durante o primeiro semestre, a disciplina de Engenharia de Prompt e IA foi focada no uso de Inteligência Artificial aplicada à programação e desenvolvimento de soluções digitais.
 
 Aprendemos a utilizar diferentes IAs em nuvem para gerar códigos, criar sites, melhorar interfaces UI/UX e automatizar tarefas simples através de prompts bem estruturados.
