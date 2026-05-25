@@ -1,0 +1,17 @@
+print("Consulta CEP")
+
+ceps = {
+    "01001000": "Rua da Consolação, São Paulo - SP",
+    "20040030": "Avenida Rio Branco, Rio de Janeiro - RJ",
+    "30130010": "Praça Sete de Setembro, Belo Horizonte - MG"
+  }
+  
+cep = input("Digite o CEP (8 números, ex: 01001000): ").strip()
+
+if cep in ceps:
+    print("Endereço encontrado:")
+    print(ceps[cep])
+else:
+    print("CEP não encontrado ou inválido.")
+
+print("Consulta finalizada!")
