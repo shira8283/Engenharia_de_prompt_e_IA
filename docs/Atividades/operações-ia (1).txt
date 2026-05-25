@@ -1,0 +1,54 @@
+def calcular(n1, n2, operacao):
+ 
+  if operacao == "+":
+    return n1 + n2
+  elif operacao == "-":
+    return n1 - n2
+  elif operacao == "*":
+    return n1 * n2
+  elif operacao == "/":
+    if n2 == 0:
+      return "Erro: Não é possível dividir por zero."
+    else:
+      return n1 / n2
+
+while True:
+
+  print("\n--- Calculadora Simples ---")
+  print("Escolha o operador:")
+  print("+ para Soma")
+  print("- para Subtração")
+  print("* para Multiplicação")
+  print("/ para Divisão")
+  print("Ou digite 'sair' para encerrar o programa.")
+
+  operacao = input("Digite a forma de operação (ou 'sair'): ").lower()
+
+  if operacao == "sair":
+    print("Programa encerrado. Até mais!")
+    break
+
+  if operacao not in ["+", "-", "*", "/"]:
+    print("Operação inválida. Por favor, escolha +, -, *, / ou 'sair'.")
+    continue # Reinicia o loop para pedir a entrada novamente
+
+  try:
+    n1 = float(input("Digite o primeiro número: ")) # Usa float para aceitar números decimais
+    n2 = float(input("Digite o segundo número: "))  # Usa float para aceitar números decimais
+  except ValueError:
+    print("Entrada inválida. Por favor, digite números válidos.")
+    continue 
+    
+  resultado = calcular(n1, n2, operacao)
+
+  if isinstance(resultado, str) and "Erro" in resultado:
+    print(resultado) 
+  else:
+   
+    if resultado == int(resultado):
+      if n1 == int(n1) and n2 == int(n2):
+        print(f"O resultado de {int(n1)} {operacao} {int(n2)} = {int(resultado)}")
+      else:
+        print(f"O resultado de {n1} {operacao} {n2} = {int(resultado)}")
+    else:
+      print(f"O resultado de {n1} {operacao} {n2} = {resultado}")
