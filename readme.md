@@ -1,10 +1,10 @@
-# Engenharia_de_prompt_e_IA
-Matéria Kadidja
+# Prompt Engineering and Artificial Intelligence
+Subject: Kadidja
 
-***AULAS E ATIVIDADES***
+### Classes and Activities ###
 
-Engenharia de Prompt e IA é uma disciplina focada no uso inteligente da Inteligência Artificial para desenvolvimento tecnológico e criação de soluções digitais. Durante a matéria, aprendemos a utilizar diferentes plataformas de IA em nuvem para gerar códigos, desenvolver sites, auxiliar no design de interfaces e otimizar processos criativos.
+Prompt Engineering and Artificial Intelligence is a course focused on the intelligent use of Artificial Intelligence for technological development and the creation of digital solutions. Throughout the course, we learned how to use different cloud-based AI platforms to generate code, develop websites, assist in interface design, and optimize creative processes.
 
-A disciplina também aborda a criação de prompts eficientes, ensinando como “controlar” e direcionar a IA para obter respostas mais precisas, funcionais e organizadas. Além disso, trabalhamos conceitos de UI/UX, buscando criar interfaces modernas, intuitivas e visualmente agradáveis para melhorar a experiência do usuário.
+The course also covers the creation of effective prompts, teaching students how to guide and direct AI systems to obtain more accurate, functional, and well-organized responses. In addition, we studied UI/UX concepts, aiming to create modern, intuitive, and visually appealing interfaces that enhance the user experience.
 
-Com isso, a matéria une tecnologia, criatividade e desenvolvimento prático, mostrando como a IA pode ser utilizada como ferramenta de apoio na programação, design e construção de projetos digitais.
+As a result, the subject combines technology, creativity, and practical development, demonstrating how AI can be used as a powerful tool to support programming, design, and the development of digital projects.
